@@ -1,4 +1,4 @@
-# Object-Relational Mapping with JPA/Hibernate - Minimal Project Setup
+# Object-Relational Mapping with JPA/Hibernate
 
 This project is intended for studying and configuring object-relational mapping with JPA/Hibernate. The goal is to demonstrate how to perform mapping between Java objects and MySQL database tables using the Java Persistence API (JPA) in conjunction with the Hibernate framework.
 
